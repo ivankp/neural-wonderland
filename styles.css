@@ -15,3 +15,6 @@ p {
 div.fig > img {
   height: 30em;
 }
+span.seed {
+  font-weight: bold;
+}
