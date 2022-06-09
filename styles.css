@@ -1,0 +1,17 @@
+body { padding: 0; border: 0; margin: 8px; }
+div, span { padding: 0; border: 0; margin: 0; }
+
+a, .link {
+  text-decoration: none;
+  cursor: pointer;
+}
+a:hover, .link:hover { text-decoration: underline; }
+
+p {
+  font-family: 'Nuosu SIL', serif;
+  margin: 5px 0;
+}
+
+div.fig > img {
+  height: 30em;
+}
